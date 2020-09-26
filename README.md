@@ -1,1 +1,1 @@
-# plotly-challenge
+This code builds a webpage that displays bellybutton diversity data. The page contains a selector that allows the user to select a sample id. Based on the selected id a bar and bubble chart are built that display data on the sample. Also, a panel that displays demographic info is created. The charts and panel automatically update when the selector is changed.
